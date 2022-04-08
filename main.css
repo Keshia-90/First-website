@@ -1,0 +1,312 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&family=Grape+Nuts&display=swap');
+h1 {
+    font-family: 'Rubik Wet Paint', cursive;
+    color: rgba(255, 251, 251, 0.703);
+    font-size: 70px;
+    text-align: center
+} 
+
+h1{
+    border-style:dashed;
+    border-color: rgba(255, 255, 255, 0.439);
+    background-color: rgba(0, 0, 0, 0.284);
+    size: 4px;
+    padding: 30px;
+    margin: 100px;
+
+}
+h2 {
+    font-family: 'Rubik Wet Paint', cursive;
+    color: rgb(246, 0, 0);
+    font-size: 50px;
+    text-align: center
+}
+h2{
+    border-style:inset;
+    border-color: rgba(255, 255, 255, 0.439);
+    background-color: rgba(0, 0, 0, 0.284);
+    size: 20px;
+    padding: 30px;
+    margin: 200px;
+}
+
+h3 {
+    font-family: 'Rubik Wet Paint', cursive;
+    color: rgb(246, 0, 0);
+    background-color: rgba(240, 248, 255, 0.264);
+    font-size: 40px;
+    text-align: center
+}
+h3{
+    border-style:groove;
+    border-color: rgba(255, 255, 255, 0.439);
+    background-color: rgba(0, 0, 0, 0.284);
+    size: 4px;
+    padding: 30px;
+    margin: 200px;
+}
+h4 {
+    font-family: 'Rubik Wet Paint', cursive;
+    color: rgb(226, 20, 20);
+    font-size: 100px;
+    text-align: center
+}
+h4 {
+    border-style:dashed;
+    border-color: rgba(255, 255, 255, 0.439);
+    background-color: rgba(0, 0, 0, 0.284);
+    size: 4px;
+    padding:70px;
+    margin: 100px;
+}
+
+h5 {
+    font-family: 'Rubik Wet Paint', cursive;
+    color: rgb(255, 255, 255);
+    font-size: 70px;
+    text-align: center
+}
+h5{
+    border-style:dashed;
+    border-color: rgba(255, 255, 255, 0.648);
+    background-color: rgba(255, 0, 0, 0.107);
+    size: 4px;
+    padding: 30px;
+    margin: 100px;
+}
+
+h6{
+    font-family: 'Rubik Wet Paint', cursive;
+    font-size: 100px;
+    color: rgb(246, 0, 0);
+    text-align: center
+}
+h6{
+    border-style:dotted;
+    border-color: rgba(255, 0, 0, 0.439);
+    background-color: rgba(0, 0, 0, 0.284);
+    size: 10px;
+    padding: 30px;
+    margin: 400px;
+}
+
+/* /* selector {
+    property: value;
+    property: value;
+} */
+
+/* * {
+    background-color: rgba(0, 0, 0, 0.368);
+} */
+
+/* to add background image */
+.background {
+    background-image: url("johnkramer.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.background2 {
+    background-image: url("saw.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.background3 {
+    background-image: url("saw2,jpg.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.nav {
+    font-size: 30px;
+}
+
+.intro {
+    background-color: rgba(255, 255, 255, 0.351);
+    font-family: 'Rubik Wet Paint', cursive;
+    color: rgb(237, 20, 20);
+    font-size: 28px;
+}
+
+.intro2{
+    color: rgba(255, 119, 0, 0.96);
+    font-family: 'Grape Nuts', cursive;
+    font-size: 30px;
+    background-color: rgba(0, 0, 0, 0.784);
+}
+.home{
+    font-family: 'Beau Rivage', cursive;
+    font-size: 30px;
+    color:aliceblue 
+}
+
+.home1{
+    font-family: 'Beau Rivage', cursive;
+    font-size: 30px;
+    color:aliceblue 
+}
+
+.home2{
+    font-family: 'Beau Rivage', cursive;
+    font-size: 30px;
+    color:aliceblue 
+    
+}
+
+.about{
+    font-family: 'Beau Rivage', cursive;
+    font-size: 30px;
+    color:  rgb(255, 255, 255); 
+}
+
+.about1{
+    font-family: 'Beau Rivage', cursive;
+    font-size: 30px;
+    color:aliceblue 
+}
+
+.about2{
+    font-family: 'Beau Rivage', cursive;
+    font-size: 30px;
+    color:aliceblue 
+}
+
+.contact{
+    font-family: 'Beau Rivage', cursive;
+    font-size: 30px;;
+    color:aliceblue 
+}
+
+.contact1{
+    font-family: 'Beau Rivage', cursive;
+    font-size: 30px;
+    color:aliceblue 
+}
+
+.contact2{
+    font-family: 'Beau Rivage', cursive;
+    font-size: 30px;
+    color:aliceblue 
+}
+
+.further{
+    background-color: rgba(0, 0, 0, 0.562);
+    font-family: 'Grape Nuts', cursive;
+    color: rgb(240, 235, 235);
+    font-size: 25px;
+}
+
+.further1{
+    background-color: rgba(0, 0, 0, 0.562);
+    font-family: 'Rubik Wet Paint', cursive;
+    color: rgb(138, 2, 2);
+    font-size: 25px;
+    text-align: center
+}
+.further1{
+    border-style:solid;
+    border-color: rgba(255, 255, 255, 0.439);
+    background-color: rgba(0, 0, 0);
+    size: 4px;
+    padding: 30px;
+    margin: 100px;
+}
+
+.int1{
+    background-color: rgba(255, 255, 255, 0.412);
+    color: rgb(248, 3, 3);
+    font-family: 'Grape Nuts', cursive;
+    font-size: 30px;
+}
+
+.list1{
+    background-color: rgba(255, 255, 255, 0.412);
+    color: rgb(8, 8, 8);
+    font-family: 'Grape Nuts', cursive;
+    font-size: 30px;
+}
+
+.op{
+    background-color: rgba(255, 255, 255, 0.412);
+    color: rgb(8, 8, 8);
+    font-family: 'Grape Nuts', cursive;
+    font-size: 30px;
+}
+
+#traps{
+    background-color: rgba(242, 0, 0, 0.329);
+    color: rgb(179, 124, 41);
+    font-family: 'Rubik Wet Paint', cursive;
+    font-size: 25px;
+}
+
+.refresher{
+    background-color: rgba(0, 0, 0, 0.562);
+    font-family: 'Grape Nuts', cursive;
+    color: rgb(240, 235, 235);
+    font-size: 20px;
+    text-align: center
+}
+
+.rec{
+    color: rgb(255, 255, 255);
+    font-family: 'Grape Nuts', cursive;
+    font-size: 25px;
+}
+
+.cinfo{
+    background-color: rgba(255, 255, 255, 0.292);
+    color: rgb(0, 0, 0);
+    font-family: 'Grape Nuts', cursive;
+    font-size: 30px;
+}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.image2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.image3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.gif{    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/* .container {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: row; /*row is always default
+} */
+
+.nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.nav a:hover {
+    background-color: rgba(255, 0, 0);
+    color: black;
+}
+
